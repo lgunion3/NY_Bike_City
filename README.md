@@ -10,7 +10,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 ## Results
 
 ### Deployed Tableau Analysis
-[Link to dashboard](https://public.tableau.com/views/NYCCitiBikeAnalysis_16040907256420/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Link to dashboard](https://public.tableau.com/views/NYCCitiBikeAnalysis_16423739605130/NYCCitiBikeDB1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### New York Citi Bike data visualizations for August 2019
 
